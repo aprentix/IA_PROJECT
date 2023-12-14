@@ -6,7 +6,7 @@
 #### Enlaces a los tableau
 https://public.tableau.com/views/Accidentes_2019_2023/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/Accidentes_trafico_2010_17/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link
-"Los Tableau que han hecho mis compañeras se han borrado porque les han borrado la cuenta de prueba gratuita."
+"Los Tableau que han hecho mis compañeras se han borrado porque la cuenta no era de tableau public, era de prueba gratuita."
 
 #### Enlace al proyecto
 En este se incluyen los datasets, los preprocesamientos y los modelos.
