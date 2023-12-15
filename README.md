@@ -11,3 +11,9 @@ https://public.tableau.com/views/Accidentes_trafico_2010_17/Dashboard1?:language
 #### Enlace al proyecto
 En este se incluyen los datasets, los preprocesamientos y los modelos.
 https://github.com/aprentix/IA_PROJECT
+
+
+
+Accidentes de tráfico en la Comunidad de Madrid - Modelos IA © 2023 
+by ALMANZA AMERICA JHASMINE, BOTEY BOPABOTE MARÍA ELENA, DIAZ CHAVEZ RAQUEL is licensed under Attribution 4.0 International. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
